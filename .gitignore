@@ -1,2 +1,3 @@
 compile_flags.txt
-szget.c
+szget
+.DS_store
